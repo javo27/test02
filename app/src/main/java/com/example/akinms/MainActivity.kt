@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("World desde branch Javier Valle")
+                    Greeting("World desde branch Javier Valle 4")
                 }
             }
         }
